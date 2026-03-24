@@ -1,6 +1,3 @@
-# vidme-mvp
-AI video pitch tool for job seekers (MVP)
-
 # 🎥 VidMe — AI Video Pitch for Job Seekers
 
 VidMe helps job seekers stand out by generating short, personalized AI video pitches for job applications and LinkedIn outreach.
